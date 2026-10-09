@@ -1,0 +1,6 @@
+# 测试产生的临时目录
+tests/.tmp-test/
+tests/.tmp-e2e/
+
+# macOS
+.DS_Store
